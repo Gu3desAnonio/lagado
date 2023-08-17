@@ -1,1 +1,5 @@
-# lagado
+- 👋 Olá, meu nome é @Gabriel
+- 👀 Estou interessado em aprender HTML5 E CSS3
+- 🌱 Estou estudando HTML5 e CSS3
+- 💞️ Procuro colaborar com todos que precisar
+- 📫 Caso queria me procurar procure no Instagram por @gu3des_one
